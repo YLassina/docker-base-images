@@ -46,6 +46,9 @@ apache-php71:
 apache-php72:
     <<: *docker_build_image
 
+apache-php73:
+    <<: *docker_build_image
+
 apache:
     <<: *docker_build_image
 
@@ -103,6 +106,9 @@ nginx-php71:
 nginx-php72:
     <<: *docker_build_image
 
+nginx-php73:
+    <<: *docker_build_image
+
 nginx:
     <<: *docker_build_image
 
@@ -125,6 +131,9 @@ php71:
     <<: *docker_build_image
 
 php72:
+    <<: *docker_build_image
+
+php73:
     <<: *docker_build_image
 
 postgres:
