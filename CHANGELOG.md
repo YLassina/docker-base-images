@@ -15,6 +15,11 @@ All notable changes to this project will be documented in this file. This projec
 * whatwedo/symfony4: is using PHP 7.3
 * whatwedo/phpX: added php-zip to all images
 
+### Fixed
+
+* whatwedo/nextcloud: fixing build
+* whatwedo/owncloud: fixing build
+
 ## v1.7.1 - 2018-11-28
 
 ### Bugfixes
