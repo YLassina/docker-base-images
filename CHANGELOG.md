@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](http://semver.org/).
 
+## Unreleased
+
+### New
+
+* whatwedo/apache-php73
+* whatwedo/nginx-php73
+* whatwedo/php73
+
+### Changed
+
+* whatwedo/symfony4 is using PHP 7.3
 
 ## v1.7.1 - 2018-11-28
 
