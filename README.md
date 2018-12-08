@@ -13,6 +13,7 @@ We at [whatwedo](https://whatwedo.ch/) are slowly going away from traditional ap
 | [whatwedo/apache-php70](https://github.com/whatwedo/docker-base-images/tree/master/images/apache-php70.md) | Apache 2 webserver including PHP 7.0 |
 | [whatwedo/apache-php71](https://github.com/whatwedo/docker-base-images/tree/master/images/apache-php71.md) | Apache 2 webserver including PHP 7.1 |
 | [whatwedo/apache-php72](https://github.com/whatwedo/docker-base-images/tree/master/images/apache-php72.md) | Apache 2 webserver including PHP 7.2 |
+| [whatwedo/apache-php73](https://github.com/whatwedo/docker-base-images/tree/master/images/apache-php73.md) | Apache 2 webserver including PHP 7.3 |
 | [whatwedo/bind](https://github.com/whatwedo/docker-base-images/tree/master/images/bind.md) | Bind9 nameserver |
 | [whatwedo/docker](https://github.com/whatwedo/docker-base-images/tree/master/images/docker.md) | Docker in docker |
 | [whatwedo/elasticsearch](https://github.com/whatwedo/docker-base-images/tree/master/images/elasticsearch.md) | Elasticsearch server |
@@ -31,6 +32,7 @@ We at [whatwedo](https://whatwedo.ch/) are slowly going away from traditional ap
 | [whatwedo/nginx-php70](https://github.com/whatwedo/docker-base-images/tree/master/images/nginx-php70.md) | nginx webserver including PHP 7.0 |
 | [whatwedo/nginx-php71](https://github.com/whatwedo/docker-base-images/tree/master/images/nginx-php72.md) | nginx webserver including PHP 7.1 |
 | [whatwedo/nginx-php72](https://github.com/whatwedo/docker-base-images/tree/master/images/nginx-php72.md) | nginx webserver including PHP 7.2 |
+| [whatwedo/nginx-php73](https://github.com/whatwedo/docker-base-images/tree/master/images/nginx-php73.md) | nginx webserver including PHP 7.3 |
 | [whatwedo/node](https://github.com/whatwedo/docker-base-images/tree/master/images/node.md) | Node |
 | [whatwedo/openldap](https://github.com/whatwedo/docker-base-images/tree/master/images/openldap.md) | openLDAP server |
 | [whatwedo/owncloud](https://github.com/whatwedo/docker-base-images/tree/master/images/owncloud.md) | ownCloud server |
@@ -38,6 +40,7 @@ We at [whatwedo](https://whatwedo.ch/) are slowly going away from traditional ap
 | [whatwedo/php70](https://github.com/whatwedo/docker-base-images/tree/master/images/php70.md) | PHP 7.0 interpreter |
 | [whatwedo/php71](https://github.com/whatwedo/docker-base-images/tree/master/images/php71.md) | PHP 7.1 interpreter |
 | [whatwedo/php72](https://github.com/whatwedo/docker-base-images/tree/master/images/php72.md) | PHP 7.2 interpreter |
+| [whatwedo/php73](https://github.com/whatwedo/docker-base-images/tree/master/images/php73.md) | PHP 7.3 interpreter |
 | [whatwedo/postgres](https://github.com/whatwedo/docker-base-images/tree/master/images/postgres.md) | Postgres database server |
 | [whatwedo/puppet-client](https://github.com/whatwedo/docker-base-images/tree/master/images/puppet-client.md) | Puppet Client |
 | [whatwedo/redis](https://github.com/whatwedo/docker-base-images/tree/master/images/redis.md) | Redis data structure server |
